@@ -3,6 +3,7 @@
 <!-- -------------------------------------------------- -->
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Challenge-ML_Challenge_2025-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model-LightGBM-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Framework-HuggingFace-orange?style=for-the-badge"/>
@@ -11,23 +12,23 @@
 
 ---
 
-# 🚀 Smart Product Pricing | ML MULTIMODAL PROJECT
+# 🚀 Smart Product Pricing | ML Challenge 2025
 
 ---
 
 ## 🌟 Introduction
 
 In today’s e-commerce landscape, accurately estimating product prices is critical for maintaining competitive advantage.  
-<!-- The **ML Challenge 2025** tasked participants with predicting product prices using **multimodal data** — combining **textual product descriptions**, **images**, and **structured numerical features**. -->
+The **ML Challenge 2025** tasked participants with predicting product prices using **multimodal data** — combining **textual product descriptions**, **images**, and **structured numerical features**.
 
 
 I have developed a robust and reproducible **multimodal price prediction pipeline** that leverages the strengths of **language models, vision encoders, and classical machine learning**.  
 This system efficiently learns semantic, visual, and quantitative signals to generate reliable price estimates even in the presence of noisy or missing data.
-<!-- I achieved a **ranked in Top 100 out of over 85000** participating teams -->
+I achieved a **ranked in Top 100 out of over 85000** participating teams
 
 ## 🧾 Executive Summary
 
-This project introduces a **multimodal product price prediction system**.
+This project introduces a **multimodal product price prediction system** for **ML Challenge 2025**.
 
 Our solution integrates:
 - 📝 **Text embeddings** from a fine-tuned **BERT model**
