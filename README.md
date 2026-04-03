@@ -13,7 +13,6 @@
 ---
 
 # 🚀 Smart Product Pricing | ML MULTIMODAL PROJECT
-*
 
 ---
 
