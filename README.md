@@ -3,7 +3,6 @@
 <!-- -------------------------------------------------- -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Challenge-ML_Challenge_2025-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model-LightGBM-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Framework-HuggingFace-orange?style=for-the-badge"/>
